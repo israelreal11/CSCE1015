@@ -1,4 +1,4 @@
-# CSCE1015 - Hochstetler
+# CSCE1015 - Awoyomi
 Assignment repository for UNT CSCE1015
 ## iaa0122
 
